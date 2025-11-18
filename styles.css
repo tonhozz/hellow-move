@@ -223,8 +223,8 @@ body {
 .card p {
   color: #ddd;
   margin-bottom: 1.5em;
+  min-height: 60px;
 }
-
 
 .sobre-text {
   color: #ddd;
@@ -339,4 +339,5 @@ body {
   .section-title {
     font-size: 2rem;
   }
+
 }
